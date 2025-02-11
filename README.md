@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pchelkaJS
 - 👀 I’m interested in JavaScript, Arduino, Pascal, Python, Java C++
-- 🌱 I’m currently learning JS, Arduino< JuniperBot
-- ⚡ Fun fact: Im YouTuber
+- 🌱 I’m currently learning JS, Arduino, JuniperBot
 
 <!---
 pchelkaJS/pchelkaJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
