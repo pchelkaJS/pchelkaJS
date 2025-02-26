@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pchelkaJS
-- 👀 I’m interested in JavaScript, Arduino, Pascal, Python, Java C++
+- 👀 I’m interested in JavaScript, Arduino, Pascal, Python, Java, C++
 - 🌱 I’m currently learning JS, Arduino, JuniperBot
 
 <!---
