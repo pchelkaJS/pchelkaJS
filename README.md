@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pchelkaJS \n
+- 👋 Hi, I’m @pchelkaJS
 ✅ Already learned  ｡🇯‌🇸‌ JavaScript R◘bl◘x Roblox Studio 𝓟 Pascal |
 📖 Learning         ©️ C++ 🐍 Python  | 
 💬Going to learn    Nothing yet... |
